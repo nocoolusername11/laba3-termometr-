@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.sensor {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    width: 250px;
+    text-align: center;
+}
+
+#temp {
+    font-size: 42px;
+    margin: 20px 0;
+}
+
+#warning {
+    color: red;
+    font-weight: bold;
+}
